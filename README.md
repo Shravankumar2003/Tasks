@@ -1,2 +1,3 @@
 # BharathIntern_Project
-It is a Virtual Internship offered from "BHARATH INTERN" as an "Data Science Intern".In this Internship I done with two tasks -"SMS Classifier" and "Titanic Classification" successfully
+
+I recently completed a virtual Data Science Internship with Bharath Intern, where I successfully accomplished two distinct tasks. The first project involved developing an SMS Classifier, and the second task focused on Titanic Classification. Both projects allowed me to apply and enhance my data science skills, resulting in a successful completion of the internship.
